@@ -1,50 +1,44 @@
-**Mifos Initiative:  Android Field Operations App Version 4**
+**Mifos Initiative:  Self-Service - Android App Version 2.0**
 
 **László Karsai**
 
-**Project idea: Android Field Operations App Version 4**
+**Project idea: Self-Service - Android App Version 2.0**
 
 I part my workflow into three parts according to the evaluations. My work would include high quality User Experience based on the Android Style.
 
 1. **Before the first evaluation**
 
-May 30 - June 11: Creating a feature to track the attendance. I think it is challenging but I think I can handle it by creating a time shared preference which stores all the dates when the application gets started.
+May 30 - June 4: Creating register/sign in related activities and resources.
 
-June 12 - June 19: Creating a monitoring collection sheet where bulk amount of savings and loans can be shown. I think it in this case there is no blocker as I would add all the available savings and loans into one list by using an adapter.
+June 5 - June 19: Creating an admin user who has all the rights to update, change the customer login user and to deactivate if needed. In addition, the Administrator should be able to assign certain permissions to the customer login user so as to control the actions she/he can perform.
 
-June 19 - June 26: Implementing feature to store the previously entered search queries to help the user make the searching process faster and the workflow easier. I think it is challenging but I think it would a usable solution if I create a shared preference containing the previously entered input data and list those which start the same way as the input. It would get refreshed after typing each letter.
-
-Here is a mockup what I think of:
-
-![image alt text](image_0.jpg)
+June 20 - June 26: After signing in, the customer login user should fill a form which ask her/him about his basic information e.g.: email address. She/he would be able to decide to choose a profile picture and change her/his password.
 
 June 27 - June 30: Period of closing this section (final tests and starting documentation) and submitting Phase 1 evaluation.
 
-**Deliverables: tracking the attendance, collection sheet and feature to remember all the previously entered queries.**
+**Deliverables: Register/sign in process, admin user and customer login user information processing**
 
 2. **Before the second evaluation**
 
-June 30 - July 9: Enabling views for task list and reports. I think there is no blockers in this case because in this case, I only need to implement some activities where the task list and reports can be viewed.
+June 30 - July 9: Creating validation process between the user and the organization through the user’s personal data.
 
-July 10 - July 17: Integrating notifications into the smart phone regarding to the application. It could be connected to the path tracker and alerts if your are in a new position and asks you if you want to give a comment to that place in your app. It is sounds very challenging for me. It is a good way to make the application smarter so I would make more work on focusing what else could be built-in into the notification system.
+July 10 - July 16: Creating user’s input process and queries (to display only the certain customer login user related data) regarding to retrieving list of her/his savings accounts details, transactions and charges to the savings accounts.
 
-July 18 - July 24: Integrating SMS communications. It sounds very challenging for me and I think it would be optional if the user could create groups, centers or clients, and maybe operations with savings or loans. I have to create a plan how to test it.
+July 17 - July 25: Creating user’s input process and queries (to display only the certain customer login user related data) regarding to list of her/his loan account details, transactions, repayment schedule and charges of each loan account.
 
 July 25 - July 28: Period of closing this section (final tests and continuing documentation) and submitting Phase 2 evaluation.
 
-**Deliverables: views for task list and reports, integrating notifiactions and SMS communication**
+**Deliverables: Validation process, user input handling**
 
 3. **Before the final evaluation**
 
-July 28 - Aug. 6:** **Extending offline support for other areas of the application where it is not done, yet e.g.: for centers. I would make a request to clarify it better.
+July 28 - Aug. 13: Creating user wizard which would help the user(s) who freshly signs in the application to get a brief explanation about the functions of application and how she/he(they) can use it. This wizard is planned to be available if the user(s) would like to have a look at it again.
 
-Aug. 7 - Aug. 13: Improving the user interface for capture of surveys. I think it is very challenging I would have to make these surveys clever enough so that the user could express their opinion fully. Then we should have them processed in a productive way.
-
-Aug. 14 - Aug. 20: Improving data scoping and role-based permissioning. I think it does not have blockers and I would create a data scoping in which there is a period e.g: 2 months and if a certain user input is older than this, it would be neglected(deleted). I would check all the inputs dates when the application starts. In connection with the role-based permissioning, I think it would be worth clarifying what a single user should be able to do. When it is clear, the role-based permissioning can be done according to a certain attribute of the user(s).
+Aug. 14 - Aug. 20: Filling up questionnaires which come up through the coding and are not done, yet.
 
 Aug. 21 - Aug. 29: Period of closing the final section (finishing documentation) and submitting the final evaluation.
 
-**Deliverables: Extending offline support, improving UI, data scoping and role-based permissioning **
+**Deliverables: user wizard, solution for questionnary parts**
 
 **Why I am the right person for this project**
 
@@ -80,7 +74,7 @@ I started to write an application for Android smart phones to pay attention bett
 
 **Gitter chatroom**
 
-Yes, I have visited Gitter chatroom for self-service-app (and android-client). My Gitter ID is karsai1993 as written among contact information, too.
+Yes, I have visited Gitter chat room for self-service-app (and android-client). My Gitter ID is karsai1993 as written among contact information, too.
 
 **Contribution to open source projects**
 
@@ -122,7 +116,7 @@ I have gained experience with:
 
 * my working time is flexible, so I can work when I want
 
-* As I can work fast and efficiently, in the last two weeks, I had enough time to get deeply into the MifosXDroid and Self Service App applications, reporting issues, solving problems besides my job, so this would not be a problem in the summer, either.
+* As I can work fast and efficiently, in the last week, I had enough time to get deeply into the MifosXDroid and Self Service App applications, reporting issues, solving problems besides my job, so this would not be a problem in the summer, either.
 
 * I can work in this project at least 5 hours a day in the week and 8 hours a day in the weekend which is 41 hours.
 
@@ -178,7 +172,7 @@ Unfortunately, no, I have not participated in it so far.
 
 **Applying to multiple organization**
 
-Yes, I plan to apply to multiple ones. As of Mifos Initiative, I would like to apply to Self-Service - Android App Version 2.0 project, too. So in this organization, there are two projects which grabbed my attention.
+Yes, I plan to apply to multiple ones. As of Mifos Initiative, I would like to apply to the Android Field Operations App Version 4 project, too. So in this organization, there are two projects which grabbed my attention.
 
 Mifos Initiative is definitely my first choice. I am happy to have found it among a lot of organizations. 
 
