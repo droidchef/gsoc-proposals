@@ -48,7 +48,7 @@ Aug. 21 - Aug. 29: Period of closing the final section (finishing documentation)
 
 **Why I am the right person for this project**
 
-I used to say that there are no problems, only opportunities for better solutions. I think I am hardworking enough to keep giving my best and reach my goals. Besides it, I have gained relevant coding experiences for 5-6 years in different languages, mostly Android and Java. Additionally, I like the challenges and being challenged because I can learn/work fast and efficiently and am willing to do so in order to fulfill the expectations against me.
+I used to say that there are no problems, only opportunities for better solutions. I think I am hardworking enough to keep giving my best and reach my goals. Besides it, I have gained relevant coding experiences for 5-6 years in different languages, mostly Android and Java. Additionally, I like the challenges and being challenged because I can learn/work fast and efficiently and am willing to do so in order to fulfill the expectations against me.Last but not least, the UI of the applications, which I develop, are very important for me because a good UI would make me more productive as I can see that I have done so far fit in the application well.
 
 **College**
 
@@ -66,7 +66,7 @@ Skype ID: karsai1993
 
 Telephone number: +36 30 484 2239
 
-Time zone: CET
+Time zone: CEST
 
 My preferred method of contact is email but if we schedule a time period, we can get in contact via telephone or skype.
 
@@ -80,7 +80,7 @@ I started to write an application for Android smart phones to pay attention bett
 
 **Gitter chatroom**
 
-Yes, I have visited Gitter chatroom for self-service-app (and android-client). My Gitter ID is karsai1993 as written among contact information, too.
+Yes, I have visited Gitter chatroom for android-client (and self-service-app). My Gitter ID is karsai1993 as written among contact information, too.
 
 **Contribution to open source projects**
 
