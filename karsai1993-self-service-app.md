@@ -8,41 +8,47 @@ I part my workflow into three parts according to the evaluations. My work would 
 
 1. **Before the first evaluation**
 
-May 30 - June 4: Creating register/sign in related activities and resources.
+May 30 - June 4: Creating register/sign in related activities and resources (User Sign Up part one).
 
-June 5 - June 19: Creating an admin user who has all the rights to update, change the customer login user and to deactivate if needed. In addition, the Administrator should be able to assign certain permissions to the customer login user so as to control the actions she/he can perform.
+June 5 - June 11: Creating an admin user who has all the rights to update, change the customer login user and to deactivate if needed. In addition, the Administrator should be able to assign certain permissions to the customer login user so as to control the actions she/he can perform. Testing the available actions/views of administrator user and customer login user (User Sign Up part two).
 
-June 20 - June 26: After signing in, the customer login user should fill a form which ask her/him about his basic information e.g.: email address. She/he would be able to decide to choose a profile picture and change her/his password.
+June 12 - June 18: After signing in, the customer login user should fill a form which ask her/him about his basic information e.g.: email address. She/he would be able to decide to choose a profile picture and change her/his password (User Details Feature and Update User Details).
+
+June 19 - June 26: Creating validation process between the user and the organization through the user’s personal data.
 
 June 27 - June 30: Period of closing this section (final tests and starting documentation) and submitting Phase 1 evaluation.
 
-**Deliverables: Register/sign in process, admin user and customer login user information processing**
+**Deliverables: Register/sign in process, admin user and customer login user information processing, validation process**
 
 2. **Before the second evaluation**
 
-June 30 - July 9: Creating validation process between the user and the organization through the user’s personal data.
+June 30 - July 5: Creating user’s input process and queries (to display only the certain customer login user related data) regarding to retrieving list of her/his savings accounts details, transactions and charges to the savings accounts.
 
-July 10 - July 16: Creating user’s input process and queries (to display only the certain customer login user related data) regarding to retrieving list of her/his savings accounts details, transactions and charges to the savings accounts.
+July 6 - July 12: Creating user’s input process and queries (to display only the certain customer login user related data) regarding to list of her/his loan account details, transactions, repayment schedule and charges of each loan account.
 
-July 17 - July 25: Creating user’s input process and queries (to display only the certain customer login user related data) regarding to list of her/his loan account details, transactions, repayment schedule and charges of each loan account.
+July 13 - July 19: Creating update and withdraw process of loan application
+
+July 19 - July 25: Implementing third party account transfers
 
 July 25 - July 28: Period of closing this section (final tests and continuing documentation) and submitting Phase 2 evaluation.
 
-**Deliverables: Validation process, user input handling**
+**Deliverables: User input handling (savings and loan related details, transactions and charges), update and withdraw possibilities of loans, third party account transfers**
 
 3. **Before the final evaluation**
 
-July 28 - Aug. 13: Creating user wizard which would help the user(s) who freshly signs in the application to get a brief explanation about the functions of application and how she/he(they) can use it. This wizard is planned to be available if the user(s) would like to have a look at it again.
+July 28 - Aug. 6: Creating user wizard which would help the user(s) who freshly signs in the application to get a brief explanation about the functions of application and how she/he(they) can use it. This wizard is planned to be available if the user(s) would like to have a look at it again.
 
-Aug. 14 - Aug. 20: Filling up questionnaires which come up through the coding and are not done, yet.
+Aug. 7 - Aug. 13: Mobile wallet integration
+
+Aug. 14 - Aug. 20: Unit and integration test of the whole application focusing on my deliverables
 
 Aug. 21 - Aug. 29: Period of closing the final section (finishing documentation) and submitting the final evaluation.
 
-**Deliverables: user wizard, solution for questionnary parts**
+**Deliverables: User wizard, mobile wallet integration, unit and integration tests**
 
 **Why I am the right person for this project**
 
-I used to say that there are no problems, only opportunities for better solutions. I think I am hardworking enough to keep giving my best and reach my goals. Besides it, I have gained relevant coding experiences for 5-6 years in different languages, mostly Android and Java. Additionally, I like the challenges and being challenged because I can learn/work fast and efficiently and am willing to do so in order to fulfill the expectations against me.
+I used to say that there are no problems, only opportunities for better solutions. I think I am hardworking enough to keep giving my best and reach my goals. Besides it, I have gained relevant coding experiences for 5-6 years in different languages, mostly Android and Java. Additionally, I like the challenges and being challenged because I can learn/work fast and efficiently and am willing to do so in order to fulfill the expectations against me. Last but not least, the UI of the applications, which I develop, are very important for me because a good UI would make me more productive as I can see that I have done so far fit in the application well.
 
 **College**
 
@@ -60,7 +66,7 @@ Skype ID: karsai1993
 
 Telephone number: +36 30 484 2239
 
-Time zone: CET
+Time zone: CEST
 
 My preferred method of contact is email but if we schedule a time period, we can get in contact via telephone or skype.
 
