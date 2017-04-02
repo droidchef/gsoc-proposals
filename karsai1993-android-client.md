@@ -2,11 +2,51 @@
 
 **László Karsai**
 
-**Project idea: Android Field Operations App Version 4**
+**Who am I? What do I study? Interests**
 
-I part my workflow into three parts according to the evaluations. My work would include high quality User Experience based on the Android Style.
+I am László Karsai from Budapest, Hungary. I attend Budapest University of Technology and Economics where I study Mechatronics. This field of technology collect and use the advantages of three individual fields: computer science/informatics, mechanics and electronics. As for me, the biggest impression has been caused by the computer science ever since I wrote my first working program. I thought to myself "How great it is that I can see the result of my work on the screen". I started to write codes in C/C++ but a little time later I began to use Java program language. When I got my first smartphone, I started to think about how the programs which I run are built and structured, and how the program codes of them look like. I had opportunity to participate in an Android software development course in the university. I liked it so much and I was excited to create my first application. This was the point when I knew that I would have to become a software developer. Besides my home-made projects being coded in C/C++, Java and Android program languages, I started to work as a software developer in the aviation industry where I managed to extend my experiences with python, bash and MySQL. I have always liked being challenged because it is such a good feeling to solve issues. I am here to continue to gain experiences and to make the MifosXDroid application better and better so as to help people who use it. 
 
-1. **Before the first evaluation**
+**Contact information and preferred method of contact**
+
+Email address: karsai1993@gmail.com
+
+Gitter ID: karsai1993
+
+Skype ID: karsai1993
+
+Telephone number: +36 30 484 2239
+
+Time zone: CEST
+
+My preferred method of contact is email but if we schedule a time period, we can get in contact via telephone or skype.
+
+**Project idea and goals**
+
+Several versions of the application were released for field officers to go out in the field to process transactions, create clients, etc. The release of version 3 contains offline synchronization for clients and groups, functionalities regarding client onboarding, loan and savings collection and GIS-based location tracking.The goal of my work is to release the version 4 of the application extended with some exciting features and modifications.I write a short description about some major examples of them in the followings:
+
+* Tracking of attendance - According to my understanding, this feature would aim to record how much time a user spends using the application. This would give opportunity for the organization members to check the application usage tendency.
+
+* Notification integration - It could be connected to the path tracker and alerts if your are in a new position and asks you if you want to give a comment to that place in your app. It is sounds very challenging for me. It is a good way to make the application smarter so I would make more work on focusing what else could be built-in into the notification system.
+
+* SMS communication - The details and the target, exact operation should be discussed in the community bonding period. However, it sounds very challenging for me and I think it would be optional if the user could create groups, centers or clients, and maybe operations with savings or loans. I have to create a plan how to test it.
+
+* Extending offline support - The parts of the application which are required to have offline synchronization process should be discussed.
+
+* Improving data scoping and role-based permissioning - The expectations of this feature should be discussed in the community bonding period. However, I think it does not have blockers and I would create a data scoping in which there is a period e.g: 2 months and if a certain user input is older than this, it would be neglected(deleted). I would check all the inputs dates when the application starts. In connection with the role-based permissioning, I think it would be worth clarifying what a single user should be able to do. When it is clear, the role-based permissioning can be done according to a certain attribute of the user(s).
+
+* Unit and integration test - It should fluently be performed besides coding, but before the final evaluation, it is important to test the whole concept of the application because it is very important for every part of it to work fine and to be ready for the release of the version 4.  
+
+**Time schedule of implementation**
+
+In this schedule, I write about my plans for the community bonding period and my workflow in the coding period. My workflow would be divided into three parts according to the evaluations. My work would include high quality User Experience based on the Android Style. My time schedule can be seen below.
+
+1. **Before the coding period (community bonding period)**
+
+In this period, all the questionnary parts should be well-defined and discussed to be aware of all the coding relevant information to perform the goals of the project. And of course, this period would give me opportunity to get to know the mentors I would work with during the summer and the application deeply focusing on parts where my goals can be implemented. 
+
+**Deliverables: Definition of the questionnary parts regarding target features and modifications**
+
+2. **Before the first evaluation**
 
 May 30 - June 11: Creating a feature to track the attendance. I think it is challenging but I think I can handle it by creating a time shared preference which stores all the dates when the application gets started.
 
@@ -22,65 +62,47 @@ June 27 - June 30: Period of closing this section (final tests and starting docu
 
 **Deliverables: tracking the attendance, collection sheet and feature to remember all the previously entered queries.**
 
-2. **Before the second evaluation**
+3. **Before the second evaluation**
 
 June 30 - July 9: Enabling views for task list and reports. I think there is no blockers in this case because in this case, I only need to implement some activities where the task list and reports can be viewed.
 
-July 10 - July 17: Integrating notifications into the smart phone regarding to the application. It could be connected to the path tracker and alerts if your are in a new position and asks you if you want to give a comment to that place in your app. It is sounds very challenging for me. It is a good way to make the application smarter so I would make more work on focusing what else could be built-in into the notification system.
+July 10 - July 17: Integrating notifications into the smart phone regarding to the application. 
 
-July 18 - July 24: Integrating SMS communications. It sounds very challenging for me and I think it would be optional if the user could create groups, centers or clients, and maybe operations with savings or loans. I have to create a plan how to test it.
+July 18 - July 24: Integrating SMS communications. 
 
 July 25 - July 28: Period of closing this section (final tests and continuing documentation) and submitting Phase 2 evaluation.
 
 **Deliverables: views for task list and reports, integrating notifiactions and SMS communication**
 
-3. **Before the final evaluation**
+4. **Before the final evaluation**
 
-July 28 - Aug. 6:** **Extending offline support for other areas of the application where it is not done, yet e.g.: for centers. I would make a request to clarify it better.
+July 28 - Aug. 6:** **Extending offline support for other areas of the application where it is not done, yet e.g.: for centers.
 
 Aug. 7 - Aug. 13: Improving the user interface for capture of surveys. I think it is very challenging I would have to make these surveys clever enough so that the user could express their opinion fully. Then we should have them processed in a productive way.
 
-Aug. 14 - Aug. 20: Improving data scoping and role-based permissioning. I think it does not have blockers and I would create a data scoping in which there is a period e.g: 2 months and if a certain user input is older than this, it would be neglected(deleted). I would check all the inputs dates when the application starts. In connection with the role-based permissioning, I think it would be worth clarifying what a single user should be able to do. When it is clear, the role-based permissioning can be done according to a certain attribute of the user(s).
+Aug. 14 - Aug. 20: Improving data scoping and role-based permissioning. 
 
-Aug. 21 - Aug. 29: Period of closing the final section (finishing documentation) and submitting the final evaluation.
+Aug. 21 - Aug. 25: Unit and integration tests
+
+Aug. 25 - Aug. 29: Period of closing the final section (finishing documentation) and submitting the final evaluation.
 
 **Deliverables: Extending offline support, improving UI, data scoping and role-based permissioning **
 
-**Why I am the right person for this project**
+**Motivation**
 
-I used to say that there are no problems, only opportunities for better solutions. I think I am hardworking enough to keep giving my best and reach my goals. Besides it, I have gained relevant coding experiences for 5-6 years in different languages, mostly Android and Java. Additionally, I like the challenges and being challenged because I can learn/work fast and efficiently and am willing to do so in order to fulfill the expectations against me.Last but not least, the UI of the applications, which I develop, are very important for me because a good UI would make me more productive as I can see that I have done so far fit in the application well.
-
-**College**
-
-University: Budapest University of Technology and Economics
-
-Field of study: Mechatronics (combination of computer sciences, electronics and mechanics)
-
-**Contact information and preferred method of contact**
-
-Email address: [karsai1993@gmail.com](mailto:karsai1993@gmail.com)
-
-Gitter ID: karsai1993
-
-Skype ID: karsai1993
-
-Telephone number: +36 30 484 2239
-
-Time zone: CEST
-
-My preferred method of contact is email but if we schedule a time period, we can get in contact via telephone or skype.
+I have always been willing to receive opportunities which inspire me to be a better software developer. During building the application and creating issues, I got more and more enthusiast about development for the Mifos Initiative open source organization because I felt excited during the my approaches of getting the application better and better. Since building and running the application for the first time, I have felt comfort and familiarity with it. I would like to continue my work in the summer as a GSoC participant. GSoC means for me an opportunity that I know I should not miss because ever since I read about it (last summer), I have known that it is the right commitment which makes me more project-orientated and gives me more knowledge about the process steps of the software development. As for Mifos organization, I really like the application and feel passion to improve it with demanded features.
 
 **Career goals**
 
 First of finishing the university with the most gained experiences which are available for me. After that I would like to go abroad to have international living and working experience. I have not pointed out a country where I would like to live so far. I would like to be a senior software developer. I think it is one of the best position because you have responsibility and opportunity to help others by sharing your knowledge with them.
 
+**Why I am the right person for this project**
+
+The most important fact that using the application and solving issues made me more inspired to continue to work on it during the summer and after that. I have reported issues and solutions daily since I found this project among the other ones. I got really familiar with this type of workflow and realized that it suits me well. I used to say that there are no problems, only opportunities for better solutions. I think I am hardworking enough to keep giving my best and reach my goals. Besides it, I have gained relevant coding experiences for 5-6 years in different languages, mostly Android and Java. Additionally, I like the challenges and being challenged because I can learn/work fast and efficiently and am willing to do so in order to fulfill the expectations against me.Last but not least, the UI of the applications, which I develop, are very important for me because a good UI would make me more productive as I can see that I have done so far fit in the application well.
+
 **Source code I have written**
 
 I started to write an application for Android smart phones to pay attention better on my expenses. The name of it is Expense Observer. Here is the link for my GitHub repository created for this project: [https://github.com/karsai1993/expense_observer](https://github.com/karsai1993/expense_observer).
-
-**Gitter chatroom**
-
-Yes, I have visited Gitter chatroom for android-client (and self-service-app). My Gitter ID is karsai1993 as written among contact information, too.
 
 **Contribution to open source projects**
 
