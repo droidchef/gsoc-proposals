@@ -1,7 +1,11 @@
-# gsoc-proposals
-A project to get your GSoC Proposal Reviewed
+# Learn how to ace your Google Summer of Code Contributions
+https://youtu.be/tPYM8UXCrxw
 
-### Currently I am only going to review proposals in Markdown format.
+
+# gsoc-proposals [deprecated]
+A project to get your GSoC Proposal Reviewed 
+
+### Not reviewing porposals anymore, since I don't have the capacity for it.
 
 ## How to request a review?
 
